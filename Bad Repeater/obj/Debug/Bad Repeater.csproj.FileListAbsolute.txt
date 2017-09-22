@@ -1,0 +1,9 @@
+C:\Users\Hubert\documents\visual studio 2017\Projects\Bad Repeater\Bad Repeater\bin\Debug\Bad Repeater.exe.config
+C:\Users\Hubert\documents\visual studio 2017\Projects\Bad Repeater\Bad Repeater\bin\Debug\Bad Repeater.exe
+C:\Users\Hubert\documents\visual studio 2017\Projects\Bad Repeater\Bad Repeater\bin\Debug\Bad Repeater.pdb
+C:\Users\Hubert\documents\visual studio 2017\Projects\Bad Repeater\Bad Repeater\obj\Debug\Bad Repeater.csprojResolveAssemblyReference.cache
+C:\Users\Hubert\documents\visual studio 2017\Projects\Bad Repeater\Bad Repeater\obj\Debug\Bad_Repeater.Form1.resources
+C:\Users\Hubert\documents\visual studio 2017\Projects\Bad Repeater\Bad Repeater\obj\Debug\Bad_Repeater.Properties.Resources.resources
+C:\Users\Hubert\documents\visual studio 2017\Projects\Bad Repeater\Bad Repeater\obj\Debug\Bad Repeater.csproj.GenerateResource.Cache
+C:\Users\Hubert\documents\visual studio 2017\Projects\Bad Repeater\Bad Repeater\obj\Debug\Bad Repeater.exe
+C:\Users\Hubert\documents\visual studio 2017\Projects\Bad Repeater\Bad Repeater\obj\Debug\Bad Repeater.pdb
