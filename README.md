@@ -1,6 +1,8 @@
 # Bad Repeater
 
-Bad Repeater is a penetration testing tool for making text floods written in C#.
+Bad Repeater is a penetration testing tool for making text floods.
+
+**Tool is all written in C#**
 
 ### Todo
 
